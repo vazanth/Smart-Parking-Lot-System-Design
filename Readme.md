@@ -56,7 +56,11 @@ CREATE TABLE ParkingSpot (
 - Amount
 - PaymentStatus (Pending, Paid)
 
-<img loading="lazy" src="./Parking-Lot-DBML.png" alt="parking lot" />
+<img loading="lazy" src="./Parking-Lot-DBML.png" alt="parking lot dbml" />
+
+# UML Diagram
+
+<img loading="lazy" src="./parkinglot-UML.png" alt="parking lot uml" />
 
 # Algorithm for Spot Allocation:
 
